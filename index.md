@@ -4,7 +4,9 @@
 _A FAIR Cross-Platform Social Media Analysis Approach to Sociotechnical Sustainable Transport Research_
 
 
-# Abstract: 
+
+### Abstract:
+
 The paper reports findings from a FAIR principles-based research project dedicated to investigating 
 how cross-field research between the DH and Sociotechnical Sustainable Transport Research could help 
 to enhance the holistic understanding of sociotechnical low-carbon transport transitions. 
@@ -20,10 +22,42 @@ has been closely associated with active transport, especially bicycling, and #su
 the electromobility theme. The study has demonstrated the investigative potentials of cross-field 
 cross-platform social media analysis studies and ultimately DH to enhance the understanding of 
 sociotechnical low-carbon transport transitions. Drawing on core results, the paper also suggests 
-an adapted version of the Geelsean Multi-Level Perspective. 
+an adapted version of the Geelsean Multi-Level Perspective.  
+
+# Research Question: 
+## How can the Digital Humanities help to enhance the understanding of sociotechnical low-carbon transport transitions?
+### Sub-Questions:
+**1	What are key themes in the social media discourse about #sustainablemobility and #sustainabletransport on Twitter and Instagram?**
+
+_1.1.  How does the discourse on Twitter and Instagram differ?_
+
+_1.2.  What are the potential reasons for these differences?_
+
+_1.3.  What are suitable ways to comprehensively visualize the commonalities and differences?_
+
+_1.4.  How can this knowledge be implemented into sociotechnical sustainable transport research?_
 
 
-![Image](https://github.com/michaelstiebe/-fairsustainabletransport/blob/main/2021-05-27_22h29_50.png?raw=true)
+**2.	How can social media analysis help to further the understanding of sociotechnical phenomena and processes in low-carbon transport transitions?**
+
+_2.1. What are the potentials and limitations of quantitative social media text mining in the context of sociotechnical sustainable transport research?_
+
+_2.2. What are the potentials and limitations of social media sentiment analysis in the context of sociotechnical sustainable transport research?_
+
+_2.3. In what ways can hashtag-based multi/cross-social media platform analysis using Twitter and Instagram help to obtain a more holistic picture of social media discourse on sustainable transport?_
+
+**3.	How can the Digital Humanities help to make sociotechnical sustainable transport research more collaborative and sustainable per se?**
+
+_3.1. How would sociotechnical sustainable transport research benefit from FAIR data sharing?_
+
+_3.2. What are ways to foster sustainable and FAIR data sharing practices in digital sociotechnical sustainable transport research?_
+
+
+
+
+
+# Workflow
+![Image](https://github.com/michaelstiebe/-fairsustainabletransport/blob/main/2021-05-27_22h29_50.png?raw=True)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
