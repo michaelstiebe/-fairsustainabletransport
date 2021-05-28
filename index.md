@@ -5,6 +5,7 @@ _A FAIR Cross-Platform Social Media Analysis Approach to Sociotechnical Sustaina
 
 
 
+
 ### Abstract:
 
 The paper reports findings from a FAIR principles-based research project dedicated to investigating 
@@ -23,6 +24,9 @@ the electromobility theme. The study has demonstrated the investigative potentia
 cross-platform social media analysis studies and ultimately DH to enhance the understanding of 
 sociotechnical low-carbon transport transitions. Drawing on core results, the paper also suggests 
 an adapted version of the Geelsean Multi-Level Perspective.  
+
+![Image](https://github.com/michaelstiebe/-fairsustainabletransport/blob/main/2021-05-28_02h25_08.png?raw=true)
+_Adapted Multi-Level Perspective on Sociotechnical Sustainable Transport Transitions_
 
 # Research Question: 
 ## How can the Digital Humanities help to enhance the understanding of sociotechnical low-carbon transport transitions?
@@ -59,6 +63,5 @@ _3.2. What are ways to foster sustainable and FAIR data sharing practices in dig
 # Workflow
 ![Image](https://github.com/michaelstiebe/-fairsustainabletransport/blob/main/2021-05-27_22h29_50.png?raw=True)
 
-# Adapted Multi-Level Perspective Model
-![Image](https://github.com/michaelstiebe/-fairsustainabletransport/blob/main/2021-05-28_02h25_08.png?raw=true)
+
 
