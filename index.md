@@ -59,3 +59,6 @@ _3.2. What are ways to foster sustainable and FAIR data sharing practices in dig
 # Workflow
 ![Image](https://github.com/michaelstiebe/-fairsustainabletransport/blob/main/2021-05-27_22h29_50.png?raw=True)
 
+# Adapted Multi-Level Perspective Model
+![Image](https://github.com/michaelstiebe/-fairsustainabletransport/blob/main/2021-05-28_02h25_08.png?raw=true)
+
